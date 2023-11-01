@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698837007 source:c:\users\marekdarsau\documents\Škola\5.semester\teaching\c\insertion sort\main.c
+	<stdio.h>
+	<string.h>
+
